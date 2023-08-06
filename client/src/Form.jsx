@@ -63,8 +63,10 @@ export default function Form() {
                 <div className="absolute inset-y-0 left-3 my-auto h-6 flex items-center border-r pr-2">
                   <select className="text-sm bg-transparent outline-none rounded-lg h-full">
                     <option>KE</option>
+                    <option>ZM</option>
                     <option>RW</option>
                     <option>UG</option>
+                    <option>MW</option>
                   </select>
                 </div>
                 <input
