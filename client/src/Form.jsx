@@ -11,7 +11,7 @@ export default function Form() {
           <p className="text-gray-800 text-3xl font-semibold sm:text-4xl">
             Get in touch
           </p>
-          <p>We’d love to hear from you! Please fill out the form bellow.</p>
+          <p>We love helping you! Please fill out the form bellow.</p>
         </div>
         <div className="mt-12 max-w-lg mx-auto">
           <form onSubmit={(e) => e.preventDefault()} className="space-y-5">
