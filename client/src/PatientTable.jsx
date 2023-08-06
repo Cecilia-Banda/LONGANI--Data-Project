@@ -15,7 +15,7 @@ export default function PatientTable() {
       lastName: "Kajamba",
       ID: "435243535",
       email: "liamjames@example.com",
-      location: "Kigali, Rwanda",
+      location: "Kalulushi, Zambia",
       phone: "+254708379775",
     },
     {
@@ -23,7 +23,7 @@ export default function PatientTable() {
       lastName: "Tionge",
       ID: "435243535",
       email: "liamjames@example.com",
-      location: "Kigali, Rwanda",
+      location: "Kalulushi, Zambia",
       phone: "+254708379775",
     },
     {
@@ -31,7 +31,7 @@ export default function PatientTable() {
       lastName: "James",
       ID: "435243535",
       email: "liamjames@example.com",
-      location: "Kigali, Rwanda",
+      location: "Lusaka, Zambiaa",
       phone: "+254708379775",
     },
     {
@@ -39,7 +39,7 @@ export default function PatientTable() {
       lastName: "James",
       ID: "435243535",
       email: "liamjames@example.com",
-      location: "Kigali, Rwanda",
+      location: "Kampala, Ugandaa",
       phone: "+254708379775",
     },
   ];
@@ -51,7 +51,7 @@ export default function PatientTable() {
           List of patients
         </h3>
         <p className="text-gray-600 mt-2">
-          This is the list of patient registered to the our hospital
+          This is the list of patient registered to the our hospital/ clinic
         </p>
       </div>
       <div className="mt-12 shadow-sm border rounded-lg overflow-x-auto">
