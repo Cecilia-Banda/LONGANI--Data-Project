@@ -3,7 +3,7 @@ import React from "react";
 export default function PatientTable() {
   const tableItems = [
     {
-      firstName: "Liames",
+      firstName: "Larry",
       lastName: "James",
       ID: "435243535",
       email: "liamjames@example.com",
@@ -11,16 +11,16 @@ export default function PatientTable() {
       phone: "+254708379775",
     },
     {
-      firstName: "Liames",
-      lastName: "James",
+      firstName: "Seth",
+      lastName: "Kajamba",
       ID: "435243535",
       email: "liamjames@example.com",
       location: "Kigali, Rwanda",
       phone: "+254708379775",
     },
     {
-      firstName: "Liames",
-      lastName: "James",
+      firstName: "Munayani",
+      lastName: "Tionge",
       ID: "435243535",
       email: "liamjames@example.com",
       location: "Kigali, Rwanda",
