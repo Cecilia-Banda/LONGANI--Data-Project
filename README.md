@@ -2,12 +2,12 @@
     ABOUT
 The LONGANI- Patient Data Storage and Management Program aims to develop a comprehensive software solution that addresses the challenges of manual processes and limited access to patient data in government healthcare facilities. It seeks to provide healthcare professionals with easy access to accurate and up-to-date patient information, improving the quality of care and enhancing decision-making.
 
-The Hospital Patient Register Application was built with React and Express, using MongoDB as the database and Mongoose as the ORM. The application allows patients to register using their names and IDs, and it enables users(health personnel) to retrieve the list of registered patients along with their visit history and associated doctors.
+The Hospital Patient Register Application is built with React and Express, using MongoDB as the database and Mongoose as the ORM. The application allows patients to register using their names and IDs, and it enables users(health personnel) to retrieve the list of registered patients along with their visit history and associated doctors.
 
     EXACT SETUP
      The initial steps are: 
 
-Prerequisites
+Pre-requisites
 
 Before setting up the project, make sure you have the following installed on your machine:
 

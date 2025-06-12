@@ -11,7 +11,7 @@ export default function Form() {
           <p className="text-gray-800 text-3xl font-semibold sm:text-4xl">
             Get in touch
           </p>
-          <p>We love helping you! Please fill out the form bellow.</p>
+          <p>We love helping you! Please fill out the form below.</p>
         </div>
         <div className="mt-12 max-w-lg mx-auto">
           <form onSubmit={(e) => e.preventDefault()} className="space-y-5">
@@ -71,14 +71,14 @@ export default function Form() {
                 </div>
                 <input
                   type="number"
-                  placeholder="+1 (555) 000-000"
+                  placeholder="+ (260) 000-000"
                   required
                   className="w-full pl-[4.5rem] pr-3 py-2 appearance-none bg-transparent outline-none border focus:border-indigo-600 shadow-sm rounded-lg"
                 />
               </div>
             </div>
             <div>
-              <label className="font-medium">Last time visit check up</label>
+              <label className="font-medium">Last visit and check up</label>
               <textarea
                 required
                 className="w-full mt-2 h-36 px-3 py-2 resize-none appearance-none bg-transparent outline-none border focus:border-indigo-600 shadow-sm rounded-lg"
